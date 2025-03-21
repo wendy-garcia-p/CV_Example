@@ -18,9 +18,7 @@
 - ### **BACHILLER  ( INSTITUCIÓN EDUCATIVA ERNESTINA CASTRO DE AGULAR  )** _( 2020)_
 
 ## 💡 Habilidades
-- **Habilidad 1** TRABAJO EN EQUIPO 
-- **Habilidad 2** ESCUCHA ACTIVA 
-- **Habilidad 3** COMUNICACIÓN ASERTIVA 
+- Trabajo en equipo, escucha activa y comunicación asertiva. Me destaco por colaborar de manera efectiva en grupo, escuchar y comprender a los demás, y expresar mis ideas de forma clara y respetuosa para lograr soluciones conjuntas.
 
 ---
 
