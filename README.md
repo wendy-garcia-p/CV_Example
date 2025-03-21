@@ -6,7 +6,7 @@
 
 ## 📞 Contacto
 - **Teléfono:** 
-- **Email:** [correo@ejemplo.com](wendyvgp15@gmail.com )
+- **Email:** (wendyvgp15@gmail.com )
 - **LinkedIn:**https://www.linkedin.com/in/wendy-vanessa-garcia-pedrozo-088b63235/
 
 ## 🏢 Experiencia Laboral
