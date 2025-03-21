@@ -1,29 +1,26 @@
-# CV_Example
+# CV_WENDY-VANESSA-GARCIA-PEDROZO 
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Nombre Completo WEMDY VANESSA GARCIA PEDROZO 
+**Profesión:** TECNOLÓGO EN GESTIÓN DE MERCADOS 
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **Teléfono:** 
+- **Email:** [correo@ejemplo.com](wendyvgp15@gmail.com )
+- **LinkedIn:**https://www.linkedin.com/in/wendy-vanessa-garcia-pedrozo-088b63235/
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
-
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **Empresa OLIMPICA ** _(2025 - Actualidad)_
+- MERCADERISTA 
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **SENA ( SERVICIO NACIONAL DE APRENDIZAJE )** _(2023- 2025)_
+- TECNOLÓGO EN GESTIÓN DE MERCADOS 
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Habilidad 1** TRABAJO EN EQUIPO 
+- **Habilidad 2** ESCUCHA ACTIVA 
+- **Habilidad 3** COMUNICACIÓN ASERTIVA 
 
 ---
 
