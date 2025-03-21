@@ -1,7 +1,7 @@
 # CV_WENDY-VANESSA-GARCIA-PEDROZO 
 # Hoja de Vida
 
-## Nombre Completo WEMDY VANESSA GARCIA PEDROZO 
+##  WENDY VANESSA GARCIA PEDROZO 
 **Profesión:** TECNOLÓGO EN GESTIÓN DE MERCADOS 
 
 ## 📞 Contacto
