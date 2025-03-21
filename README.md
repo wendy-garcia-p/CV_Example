@@ -3,6 +3,7 @@
 
 ##  WENDY VANESSA GARCIA PEDROZO 
 **Profesión:** TECNOLÓGO EN GESTIÓN DE MERCADOS 
+Soy una profesional en Gestión de Mercados con un enfoque en la atención al cliente y ventas. Me considero una persona proactiva, con fuertes habilidades en trabajo en equipo, escucha activa y comunicación asertiva, lo que me permite generar relaciones positivas tanto con compañeros de trabajo como con clientes. Tengo una actitud orientada a resultados y un compromiso constante con el aprendizaje y desarrollo profesional. Mi experiencia como mercaderista me ha permitido adquirir una visión estratégica del mercado y mejorar la experiencia del cliente, logrando así los objetivos de la empresa de manera eficiente y colaborativa.
 
 ## 📞 Contacto
 - **Email:** [wendyvgp15@gmail.com](mailto:wendyvgp15@gmail.com)
