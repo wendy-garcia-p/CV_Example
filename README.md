@@ -10,7 +10,7 @@
 - **LinkedIn:**https://www.linkedin.com/in/wendy-vanessa-garcia-pedrozo-088b63235/
 
 ## 🏢 Experiencia Laboral
-### **Empresa OLIMPICA ** _(2025 - Actualidad)_
+### **Empresa INVERSIONES Y OPERACIONES DEL SUR ** _(2025 - Actualidad)_
 - MERCADERISTA 
 
 ## 🎓 Educación
