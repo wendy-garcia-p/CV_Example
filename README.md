@@ -6,7 +6,7 @@
 
 ## 📞 Contacto
 - **Email:** [wendyvgp15@gmail.com](mailto:wendyvgp15@gmail.com)
-- **LinkedIn:**https://www.linkedin.com/in/wendy-vanessa-garcia-pedrozo-088b63235/
+- **LinkedIn:** [https://www.linkedin.com/in/wendy-vanessa-garcia-pedrozo-088b63235/](https://www.linkedin.com/in/wendy-vanessa-garcia-pedrozo-088b63235/)
 
 ## 🏢 Experiencia Laboral
 ### **INVERSIONES Y OPERACIONES DEL SUR ** _(2025 - Actualidad)_
